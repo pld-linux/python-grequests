@@ -22,7 +22,6 @@ Requires:	python-libs
 Requires:	python-requests
 %endif
 %if %{with python3}
-BuildRequires:	python3-distribute
 BuildRequires:	python3-gevent
 %endif
 BuildRequires:	rpm-pythonprov

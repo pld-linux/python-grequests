@@ -9,7 +9,7 @@
 Summary:	gevent support for python-requests
 Name:		python-%{module}
 Version:	0.2.0
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/g/grequests/grequests-%{version}.tar.gz
